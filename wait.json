@@ -1,7 +1,7 @@
 {
     "Mentiongift": false,
     "Mentionkick": false,
-    "Respontag": "DUH KENA TAG",
+    "Respontag": "此為防翻測試版\n有錯誤請找尹莫♪",
     "Talkblacklist": {},
     "Talkdblacklist": false,
     "Talkwblacklist": false,
@@ -15,7 +15,7 @@
     "autoLeave1": false,
     "blacklist": {},
     "bots": {},
-    "comment": "Like like & like by ARIF",
+    "comment": "尹莫到此一遊",
     "contact": false,
     "dblacklist": false,
     "delladmin": false,
@@ -24,8 +24,8 @@
     "detectMention": false,
     "leave": "Good Bye, See You Next Time 😃",
     "limit": 1,
-    "mention": "NAH NGINTIP",
-    "message": "Terimakasih sudah add saya 😃",
+    "mention": "粗乃聊天(=ﾟωﾟ)ﾉ",
+    "message": "加我有事?",
     "owner": {},
     "selfbot": true,
     "staff": {},
@@ -33,6 +33,6 @@
     "talkban": true,
     "unsend": true,
     "wblacklist": false,
-    "welcome": "Selamat datang ",
+    "welcome": "安安 ",
     "welcomeOn": false
 }
